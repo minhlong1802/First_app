@@ -1,3 +1,6 @@
+22IT2 Nguyễn Minh Long BIT220100
+![Android_emulater](https://github.com/user-attachments/assets/11f2c782-08a4-44f8-8a4e-33f6767b174d)
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
